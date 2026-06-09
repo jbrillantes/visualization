@@ -9,8 +9,12 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+      
+"For my example of a poor visualization, I selected the Tableau visualization *Formula 1 Constructors (2006–2025)*. The chart uses a radial bump chart to display Formula 1 constructor rankings over time, with each team represented by a different colored line. At first glance, the visualization is visually appealing because of its circular layout, dark background, and vibrant colors. However, its design makes the information more difficult to interpret than necessary.
+A first issue is the radial layout. Time-based data is usually easier to understand when presented in a linear, left-to-right format because viewers can naturally follow changes over time. In this chart, the years are arranged around a circle, forcing viewers to trace curved lines and move their attention around the entire visualization. It is also not immediately clear whether positions closer to the center represent better or worse rankings.
+Secondly, the chart’s purpose is unclear. The title does not communicate what viewers are supposed to learn from the visualization. Effective visualizations should be designed around a specific user task. As Munzner (2009) argues, visualization design should begin with an understanding of the user’s goals and data before selecting a visual form. In this case, the chart includes several dimensions—time, rankings, and teams—but does not make any one task easy to accomplish.
+The chart also suffers from visual clutter. Viewers must repeatedly consult the legend, match colors to teams, and follow lines around the circle without losing track of them. While dedicated Formula 1 fans may find the chart manageable, it is less accessible to a general audience. Research by Goldberg and Helfman (2011) found that radial graphs often take longer to interpret than linear graphs, while Waldner et al. (2020) reported that linear layouts generally produce greater accuracy and efficiency.
+
 
 
 
