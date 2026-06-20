@@ -7,23 +7,45 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
+
+
+data source: https://open.toronto.ca/dataset/apartment-building-evaluation/
+
     > What software did you use to create your data visualization?
+
+Python
 
     > Who is your intended audience? 
     
+General population of building residences of Toronto.
+
     > What information or message are you trying to convey with your visualization? 
-    
+
+The visualization summarizes the median overall evaluation scores of residential buildings by neighbourhood. Although the dataset contains 71 variables covering specific evaluation criteria (i.e., garbage and pest control), the overall score was chosen because it provides a simplified summary of building performance across all categories. Neighbourhood names were used instead of geographic coordinates to make the results easier to interpret.
+
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+
+I wanted to make the figure have a simple design, and have the trends show easily to the viewer. I additionally labelled the axis to have a greater understanding of the figure.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+The dataset is available online, and the packages are available as well.
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualization is accessible? 
+
+In order for the figure to be easily seen for everyone, I used clearly stated titles and black texts. 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+
+Perhaps tenants will be impacted by the visualization.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+
+As I wanted the figure to be easy to understand, I decided to select datapoints that are logical and easy to compre.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+The dataset was published by municiapl licensing and standards through rentsafeto. It combines information collected by surveyors, city staff, and other municipal projects, including building characteristics such as construction year and building plans. The data was made publicly available on the city's website in an accessible CSV format.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
