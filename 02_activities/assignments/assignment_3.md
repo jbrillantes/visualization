@@ -23,9 +23,11 @@ General population of building residences of Toronto.
 
 The visualization summarizes the median overall evaluation scores of residential buildings by neighbourhood. Although the dataset contains 71 variables covering specific evaluation criteria (i.e., garbage and pest control), the overall score was chosen because it provides a simplified summary of building performance across all categories. Neighbourhood names were used instead of geographic coordinates to make the results easier to interpret.
 
+The second figure, it summarizes the number of apartment buildings per ward. 
+
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
 
-I wanted to make the figure have a simple design, and have the trends show easily to the viewer. I additionally labelled the axis to have a greater understanding of the figure.
+I wanted to make the figures have a simple design, and have the trends show easily to the viewer. I additionally labelled the axis to have a greater understanding of the figure.
 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
 
@@ -33,7 +35,7 @@ The dataset is available online, and the packages are available as well.
     
     > How did you ensure that your data visualization is accessible? 
 
-In order for the figure to be easily seen for everyone, I used clearly stated titles and black texts. 
+In order for the figures to be easily seen for everyone, I used clearly stated titles and black texts. 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
 
@@ -41,7 +43,7 @@ Perhaps tenants will be impacted by the visualization.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
 
-As I wanted the figure to be easy to understand, I decided to select datapoints that are logical and easy to compre.
+As I wanted the figures to be easy to understand, I decided to select datapoints that are logical and easy to compre.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
